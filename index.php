@@ -6,5 +6,9 @@
  <?php echo '<p>Hello World</p>'; ?> 
   
    <?php echo '<p>Hello from TMCS</p>'; ?> 
+ 
+  <p>
+   This is paragraph!!
+  </p>
  </body>
 </html>
