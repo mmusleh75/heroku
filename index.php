@@ -6,7 +6,9 @@
  <?php echo '<p>Hello World</p>'; ?> 
   
    <?php echo '<p>Hello from TMCS</p>'; ?> 
- 
+ [
+  <?php echo $ENV ?>
+  ]
   <p>
    This is paragraph!!
   </p>
